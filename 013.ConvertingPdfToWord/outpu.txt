@@ -1,0 +1,613 @@
+B.TECH ADMISSION BATCH OF 2019 
+COMPUTER SCIENCE AND  ENGINEERING CURRICULUM SIKSHA ‘O’ ANUSANDHANADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+DEPARTMENT OF COMPUTER SCIENCE  
+AND ENGINEERINGPageCONTENTS2Program Educational Objectives
+3Student Outcomes4Regular Curriculum Plan for the B.Tech Program (This doesn’t 
+include the interdisciplinary specialisation)
+15List of Core Subjects
+16Choice Based Credit System
+16Elective Policy, Areas and List of Electives
+20Interdisciplinary Specialisation Policy, Areas and Subjects
+  of  120The textbooks prescribed for a subject are required for that subject and will be the only ones used for it
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+Program Educational Objectives
+1Our Graduates will have successful professional careers in industry, 
+government, academia or non-profit organizations
+!!!!2Our Graduates will effectively lead, work and communicate in 
+multidisciplinary teams and apply sound engineering principles and design methodology to solve societal problems
+!!!!3Our Graduates will maintain currency in their chosen field
+!through 
+higher study, through organizational participation and through 
+participation in professional developmental
+!activities.  of  220The textbooks prescribed for a subject are required for that subject and will be the only ones used for it
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+After Graduation, Students will have :AAn ability to apply knowledge of computing and mathematics appropriate to the program’s student outcomes and to the discipline
+BAn ability to analyze a problem, and identify and define the computing 
+requirements appropriate to its solution
+CAn ability to design, implement, and evaluate a computer-based 
+system, process, component, or program to meet desired needs
+DAn ability to function effectively on teams to accomplish a common goal
+EAn understanding of professional, ethical, legal, security and social 
+issues and responsibilities
+FAn ability to communicate effectively with a range of audiences
+GAn ability to analyze the local and global impact of computing on individuals, organizations, and society
+HRecognition of the need for and an ability to engage in continuing professional development
+IAn ability to use current techniques, skills, and tools necessary for 
+computing practice.JAn ability to apply mathematical foundations, algorithmic principles, and computer science theory in the modeling and design of computer-
+based systems in a way that demonstrates comprehension of the 
+tradeoffs involved in design choices.
+KAn ability to apply design and development principles in the construction of software systems of varying complexity.
+!  of  320The textbooks prescribed for a subject are required for that subject and will be the only ones used for it
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 1 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 2ND YEAR)SUBJECT CODESUBJECT NAMECREDITSGRADING PATTERN
+CSE 1002Discrete Mathematics
+46The Foundations: Logic and Proofs, Basic Structures: Sets, Functions, 
+Sequences, Sums, Matrices, Algorithms, Number Theory and Cryptography, 
+Induction and Recursion, Counting, Relations, Partial Orderings
+Textbooks 
+-Discrete Mathematics and Its 
+Applications by Rosen, Mcgraw HillCourse Format:  4 Classes/week, 1hr/Class, 
+4 Credits
+MTH 1001Calculus I46Functions and Models, Limits and Derivatives, Differentiation Rules, 
+Application of Differentiation, Integrals, Applications of Integration, 
+Techniques of Integration, Further Applications of Integration, Parametric 
+Equations and Polar Coordinates, Infinite Sequences and Series
+Textbook – Early Transcedentals, 7
+th Edition, by James Stewart, CengageCourse Format:  4 Classes/week, 1hr/Class, 
+4 Credits
+CSE 1001Introduction to Computer Programming
+41Introduction to Computers, Programs, and Java, Elementary Programming, 
+Selections, Mathematical Functions, Characters, and Strings, Loops, Methods, Single-Dimensional Arrays, Multidimensional Arrays, Objects and Classes, Object-Oriented Thinking, Inheritance and Polymorphism, Exception Handling and Text I/O, Abstract Classes and Interfaces, Recursion, Generics
+Textbook 
+-Intro to Java Programming 
+(Comprehensive Version) by Pearson by 
+Y Daniel LiangCourse Format:  3 Classes/week, 1hr/Class, 
+1 Lab/Week, 2hr/Lab, 4 Credits
+PHY 1001University Physics: Mechanics411D Kinematics, 2D Kinematics, Circular Motion, Newton’s Laws, Forces & 
+Free Body Diagram, Friction, Work & Energy, Potential Energy, General Work 
+Energy, Center of Mass, Collisions, Impulse, Rotational Kinematics, Parallel 
+Axis, Torque, Rotational Dynamics, Statics, Angular Momentum, Harmonic 
+Motion, Waves, Fluids
+Textbook – University Physics with Modern 
+Physics, by Young and Freedman, Pearson
+Course Format:  3 Classes/week, 1hr/Class, 
+1 Lab/Week, 2hr/Lab, 4 Credits
+HSS 1021Principles of Microeconomics
+36Introduction, How Markets Work, Markets and Welfare, The Economics of the 
+Public Sector, Firm Behavior and the organization of Industry, The Economics 
+of Labor Market, Theory of Consumer Choice, Frontiers of Microeconomics
+Textbook – Principles of Economics, 6
+th Edition, by N Gregory Mankiw, Cengage
+Course Format:  3 Classes/week, 1hr/Class, 
+3 Credits
+TOTAL CREDITS
+19  of  420The textbooks prescribed for a subject are required for that subject and will be the only ones used for it
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 2 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 2ND YEAR)CODESUBJECTCREDITSGRADING PATTERN
+CSE 2001Data Structure and Algorithms
+41Java primer, Object oriented design, fundamental data structures, 
+algorithm analysis, recursion, stacks, queues, List, trees 
+Textbook 
+-Data Structures and Algorithms in java by 
+Goodrich and Tamassia, Wiley India
+Course Format: 3 Classes/week, 1hr/Class, 1 
+Lab/Week, 2hr/Lab, 4 Credits
+CSE 1004Introductory Graph Theory
+41Fundamental Concepts, Trees and Distance, Matchings and Factors, 
+Graph Coloring, Planar Graphs, Edges and Cycles Textbooks 
+-Introduction to graph theory by West, 
+pearson indiaCourse Format:  3 Classes/week, 1hr/Class, 1 
+2hr Problem Solving Session/Week, 4 Credits 
+MTH 2001Calculus II32Vectors and Geometry of Space, Vector Functions, Partial Derivatives, 
+Multiple Integrals, Vector Calculus 
+Textbook – Early Transcendentals, 7
+th Edition, by James Stewart, CengageCourse Format: 2 Classes/week, 1hr/Class, 1 
+2hr Problem Solving Session/Week
+PHY 2001University Physics: Electricity and Magnetism41Coulomb’s Law, Electric Fields, Electric Fields and Flux, Gauss’s Law, 
+Electric Potential, Capacitance, Simple Circuits, Kirchhoff’s Laws, RC 
+Circuits, Magnetic Force, Forces and Magnetic Dipoles, Biot-Savart Law, 
+Ampere’s Law, Motional EMF, Faraday’s Law, Self-Inductance RL Circuits, 
+Oscillations: LC Circuits, AC Circuits, AC Power and Resonant Circuits, 
+Maxwell’s Displacement Current, Electromagnetic Waves, Polarization, 
+Reflection and Refraction, Lenses, Mirrors, Optical Instruments
+Textbook – University Physics with Modern 
+Physics, 13th Edition, by Young and 
+Freedman, Pearson
+Course Format: 3 Classes/week, 1hr/Class, 1 
+Lab/Week, 2hr/Lab, 4 Credits
+GED 1001Critical Thinking and Communication41Critical Thinking and Communication : Argument and Critical Thought, 
+Co-Oriental View of Argument, Argument Cultures and Ethics, Claims and 
+Propositions, Evidence, Reasoning, Communicating Arguments, Argument 
+Analysis and Criticism Communication process; Public Speaking: Ethics and learning to speak in 
+public; Listening: The Listening Process ,Types of listening. Practising 
+Active Listening; Audience Analysis :Making a choice of speech according 
+to the target audience; Researching and Organizing Materials: Going 
+through scholarly resources and gathering information; Using visual aids: 
+Learning the use of Visual Aids in Effective presentation; Using various 
+types of speech: Critiquing Speeches, Delivery methods and audience analysis.Textbooks 
+-Critical Thinking and Communication by Inch, Pearson -The Art of Public Speaking by Lucas, Tata 
+McGraw HillCourse Format: 3 Classes/week, 1hr/Class, 1 
+2hr Lab/Week, 4 Credits
+TOTAL CREDITS
+19  of  520The textbooks prescribed for a subject are required for that subject and will be the only ones used for it
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 3 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 3RD YEAR)CODESUBJECTCREDITSGRADING PATTERN
+CSE 2141Computer Science Workshop 1
+45Compiling, Running, and Debugging, Interacting with the Environment, 
+Strings and Things, Pattern Matching with Regular Expressions, Numbers, 
+Dates and Times—New API, Structuring Data with Java, Object-Oriented 
+Techniques, Functional Programming Techniques: Functional Interfaces, 
+Streams, Parallel Collections, Input and Output, Directory and Filesystem 
+Operations, Media: Graphics, Audio, Video, Network Clients, Graphical 
+User Interfaces, Internationalization and Localization, Server-Side Java, 
+Java and Electronic Mail, Database Access, Processing JSON Data, 
+Processing XML
+, Packages and Packaging, Threaded Java. Programming 
+Exercises and projects from the other prescribed text books.
+Textbooks  
+-Java Cookbook by Darwin, Shroff/O’Reilly 
+-Elements of Programming Interviews in 
+Java by Aziz, Lee and Prakash -Data Structures and Algorithms in java by 
+Goodrich and Tamassia, Wiley India 
+-Think Java by Downey, Shroff/O’Reilly 
+-Think Data Structures by Downey, O’Reilly
+Course Format:  8 Lab Hours
+EET 1211Digital Logic Design41Digital Systems and binary numbers, boolean algebra and logic gates, Gate level minimisation, Combinational Logic, Synchronous Sequential 
+Logic, Registers and Counters, Memory and Programmable Logic : PLA 
+and PLL, Design at the register transfer level. Labs from this textbook : 17 
+Laboratory Experiments with Standard ICs and FPGAs 
+Textbook – Digital Design: With an 
+Introduction to the Verilog HDL, VHDL, and 
+SystemVerilog by Mano, 6th Edition, Pearson
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+Lab Session/Week, 2 hrs/Lab Session = 4 
+Credits
+MTH 2002Probability and Statistics
+46Introduction to Statistics and Data Analysis;
+!Probability;
+!Random Variables 
+and Probability Distributions;
+!Mathematical Expectations;!Some Discrete 
+Probability Distributions;
+!Some Continuous Probability 
+Distributions;!Functions of Random Variables;
+!Fundamental Distributions and Data Description;!One and Two Sample Estimation Problems;
+!One and Two Sided Tests of Hypotheses;
+!Simple Linear Regression
+Textbook - Probability and Statistics for 
+Engineers and Scientists by Walpole and 
+MyersCourse Format: 4 Classes/week, 1hr/Class, 4 
+Credits
+MTH 3003Applied Linear Algebra46Matrices and Gaussian Elimination, Vector Spaces, Orthogonality, 
+Determinants, Eigen Values and Eigen Vectors, Positive Definite Matrices, 
+Computations with Matrices Textbook – Linear Algebra and its 
+applications, 4th Edition, by Gilbert StrangCourse Format: 4 Classes/week, 1hr/Class, 4 
+Credits
+HSS 2021Principles of Macroeconomics
+36Introduction to Macroeconomics, Independence & gains from trade, 
+Measuring a nations income, Measuring the Cost of Living, Production & 
+growth, Savings, investment & the financial system, The Basic tools of 
+finance, Unemployment and its natural rate, The Monetary System, Money, Growth & inflation, Aggregate Demand & Aggregate Supply, The 
+Short Run tradeoff between Inflation and Unemployment
+Textbook – Principles of Economics, 6
+th Edition, by N Gregory Mankiw
+Course Format: 3 Classes/week, 1hr/Class, 3 
+Credits
+TOTAL CREDITS
+19The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 4 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 3RD YEAR)CODESUBJECTCREDITSGRADING PATTERN
+CSE 3141Computer Science Workshop 2
+45Programming in Python 
+: A Taste of Python, Numbers, Strings, and 
+Variables, Lists, Tuples, Dictionaries, and Sets, Code Structures, Types and 
+Operations, Modules and Packages, Objects and Classes, Mangle Data Like a Pro, Handling Data, Web programming with python, Systems, 
+Networks, Be a python expert, Python Programming from Cookbook
+ : Data Structures and Algorithms, Strings and Text, Numbers, Dates, and 
+Times, Iterators and Generators, Files and I/O, Data Encoding and 
+Processing, Functions, Classes and Objects, Metaprogramming, Modules 
+and Packages, Network and Web Programming, Concurrency, Utility 
+Scripting and System Administration, Testing, Debugging, and Exceptions
+Textbooks  
+-Introducing Python by Bill Lubanovic, 
+Shroff/O’Reilly 
+-Python Cookbook: Recipes For Mastering Python 3, 3rd Edition by Brian Jones, David 
+Beazley, Shroff/O’Reilly
+Course Format:  8 Lab Hours
+EET 2211Computer Organisation and Architecture
+41Introduction, Computer Evolution and Performance, Top-Level View of 
+Computer Function and Interconnection, Cache Memory, Internal Memory, 
+External Memory, Input/Output, Operating System Support, Number 
+Systems, Computer Arithmetic, Digital Logic, Instruction Sets: Characteristics and Functions, Instruction Sets: Addressing Modes and 
+Formats, Processor Structure and Function, Reduced Instruction Set 
+Computers, Instruction-Level Parallelism and Superscalar Processors, 
+Parallel Processing, Multicore Computers
+Textbooks : Computer Organisation and 
+Architecture by William Stallings, Pearson
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits
+CSE 3131Algorithms Design 141Introduction: Some Representative Problems, Basics of Algorithms 
+Analysis, Graphs, Greedy Algorithms, Divide and Conquer, Dynamic 
+Programming
+Textbook - Algorithm Design by kleinberg 
+and Tardos, Pearson
+Course Format:  3 Classes/week, 1hr/Class, 1 
+2hr Problem Solving Session/Week, 4 Credits 
+CSE 2033Advanced Discrete Mathematics
+32What is Combinatorics, The Pigeonhole Principle, Permutations and 
+Combinations, Generating Permutations and Combinations, Partial Orders 
+and Equivalence Relations, The Binomial Coefficients, The Inclusion-
+Exclusion Principle and Applications, Recurrence Relations and Generating 
+Functions, Special Counting Sequences Lattices and Order
+ : Ordered sets, Lattices and complete lattices, Formal 
+concept analysis, Modular distributive and Boolean lattices, Representation theory: the finite case, Congruences 
+Abstract Algebra : Group Theory, Introduction to Groups, Subgroups, 
+Quotient Group and Homomorphisms, Group Actions, Ring Theory, 
+Introduction to Rings 
+Textbook  
+-Introductory Combinatorics
+!by Richard A. 
+Brualdi, Pearson India -Introduction to Lattices and Order by B. A. 
+Davey & H. A. Priestley, Cambridge 
+University Press India 
+-Abstract Algebra, 3ed by David S. Dummit, Wiley India
+Course Format:  2 Classes/week, 1hr/Class, 1 
+2hr Problem Solving Session/Week, 3 Credits 
+SEMESTER 4 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 3RD YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+CHM 1012Environmental Studies and Disaster Management
+36Environmental Studies
+ : The Multidisciplinary Nature of Environmental 
+Studies, Natural Resources, Ecosystems, Biodiversity & its conservation, 
+Environmental Pollution, Social Issues & the Environment, Human 
+Pollution & the Environment 
+Disaster Management : Introduction to Disaster Management, Disaster 
+Management and Planning, Disaster Mitigation, Disaster Preparedness, 
+Disaster Response, Disaster Recovery, Contemporary Issues and 
+Challenges in Disaster ManagementTextbooks 
+-Environmental Studies : Supplied by the 
+UGC (in the form of an Ebook) 
+-Disaster Management by Mrinalini Pandey, 
+Wiley India
+Course Format:  3 Classes/week, 1hr/Class
+TOTAL CREDITS
+18SEMESTER 4 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 3RD YEAR)CREDITSGRADING PATTERN
+SEMESTER 4 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 3RD YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 5 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTCREDITSGRADING PATTERN
+CSE 3041UNIX Systems Programming
+41Programming in C 
+:  Overview of Computers and Programming, Overview 
+of C, Top Down Design with Functions, Selection Structures, Repetition 
+and Loop Statements, Pointers and modular Programming, Arrays, Strings, 
+Recursion, Structure and Union Types, Text and Binary File Processing, 
+Dynamic Data Structures 
+Fundamentals: Technology’s Impact on Programs; Programs, Processes 
+and Threads, Processes in UNIX, UNIX I/O, Files and Directories, UNIX 
+Special Files, Project: The Token ring  
+Asynchronous Events
+: Signals, Times and Timers, Project: Virtual Timers, 
+Cracking Shell  Concurrency
+: POSIX Threads, Thread Synchronization, Critical Section and 
+Semaphores, POSIX IPC, Projects: Producer Consumer Synchronization
+Textbooks  
+-Problem Solving and Program Design in C 
+by Hanly, Pearson India 
+-UNIX Systems Programming: 
+Communication, Concurrency and Threads 
+by Robbins and Robbins, PearsonCourse Format:  2 Classes/week, 1hr/Class, 2 
+Labs/Week, 2hr/Lab, 4 Credits 
+CSE 4049Design of Operating Systems41Operating Systems : Introduction, Operating System structures, Processes, 
+Threads, Process Synchronisation, CPU Scheduling, Deadlocks, Main 
+Memory, Virtual Memory, File Systems (Interface and Implementation), I/O 
+Systems, Case Study : Linux : Introduction, Memory Addressing, Processes 
+and Threads, Interrupts and exceptions, Kernel synchronization, Timing 
+Measurements, Process Scheduling, Memory Management, Process 
+Address space, System Calls, Signals, the Virtual File System, IO, Page 
+Cache, Accessing FilesTextbooks 
+-Operating System Concepts by Silberschatz, Galvin and gagne -Understanding the Linux kernel by Bovet 
+and Cesati, SPDCourse Format:  3 Classes/week, 1hr/Class, 1 
+Lab/Week, 2hr/Lab, 1 credit = 4 Credits 
+CSE 3034Computer Networking41Physical Layer, Data Link, The Medium Access Control Sublayer, Network 
+Layer, The Transport, Application Layer, Network Security 
+Communication: Connection Oriented Communication, Project: WWW 
+Redirection, Connectionless Communication and Multicast, Project : 
+Internet Radio, Project: Server Performance
+Textbook  
+-Computer Networks by Tannenbaum, 
+Pearson India -UNIX Systems Programming: 
+Communication, Concurrency and Threads 
+by Robbins and Robbins, PearsonCourse Format:  3 Classes/week, 1hr/Class, 1 
+Lab/Week, 2hr/Lab, 1 credit = 4 Credits 
+CSE 3054Introduction to Data Science using Python
+25Preliminaries, Introductory Examples, IPython: An Interactive Computing 
+and Development Environment, NumPy Basics: Arrays and Vectorized 
+Computation, Getting Started with pandas data structures, Data Loading, 
+Storage, and File Formats, Data Wrangling: Clean, Transform, Merge, 
+Reshape, Plotting and Visualization, Data Aggregation and Group 
+Operations, Time Series, Financial and Economic Data Applications 
+Textbook - Python for Data Analysis by Wes 
+McKinney, Shroff/O’reilly
+Course Format: 2 labs/Week, 2 hrs/Lab = 2 
+Credits 
+SEMESTER 5 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+CSE 3031Theory of Computation41Automata and Languages: Regular Languages, Context Free grammar 
+Computability: The Church Turing Thesis, Decidability, Reducibility 
+Textbook - Introduction to the Theory of 
+Computation by SipserCourse Format:  3 Classes/week, 1hr/Class, 1 
+Problem Solving Session/Week, 2hr/Problem 
+Solving Session, 1 credit = 4 Credits 
+CSE 4131Algorithm Design 241Network Flow, NP and Computational Intractability, PSPACE: A Class of 
+Problems Beyond NP, Extending the Limits of Tractability, Approximation 
+Algorithms, Local Search, Randomized Algorithms
+Textbook - Algorithm Design by kleinberg 
+and Tardos, Pearson
+Course Format:  3 Classes/week, 1hr/Class, 1 
+Problem Solving Session/Week, 2hr/Problem 
+Solving Session, 1 credit = 4 Credits 
+TOTAL CREDITS
+22SEMESTER 5 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CREDITSGRADING PATTERN
+SEMESTER 5 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 6 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTCREDITSGRADING PATTERN
+CSE 4042UNIX Network Programming
+41Introduction, the transport layer, sockets introduction, Elementary TCP 
+sockets, TCP client/server example, I/O, Socket Options, Elementary UDP and SCTP SCTP client server model, Name and address conventions, 
+IPV4, IPV6, Daemon Processes, Advanced IO options, Unix Domain 
+Protocols, Nonblocking I/O, IOCTL Operations, Routing Sockets, 
+Broadcasting, Multicasting, Advanced UDP sockets, signal driven IO, 
+threads, IP Options, Raw Sockets, Datalink access, Design Alternatives
+Textbooks 
+-Unix Network Programming Vol 1 by 
+Stevens, PearsonCourse Format:  2 Classes/week, 1hr/Class, 2 
+Labs/Week, 2hr/Lab, 4 Credits
+CSE 3151Introduction to Databases
+41Theory (From Silberschatz)
+ : Introduction, Relational Databases: 
+Introduction to the Relational Model, Introduction to SQL, Intermediate 
+SQL, Advanced SQL, Formal Query Languages; Database Design: 
+Database Design and the ER model, Relational Database Design, Application design and development; Data Storage and Querying: Storage and the File Structure, Indexing and Hashing, Query Processing 
+and Optimisation; Transaction Management: Transactions, Concurrency 
+Control, Recovery System; System Architecture: Database System 
+Architectures 
+Labs (From Alan Beaulieu)
+ : A Little Background, Creating and Populating 
+a Database, Query Primer, Filtering, Querying Multiple Tables, Working 
+with Sets, Data Generation, Conversion, and Manipulation, Grouping and 
+Aggregates, Subqueries, Joins Revisited, Conditional Logic, Transactions, 
+Indexes and Constraints, Views, Metadata, ER Diagram for Example 
+DatabaseTextbooks  
+-Database System Concepts, 6th Edition, by Silberschatz, Froth and Sudarsan, Tata 
+McGraw Hill -Learning SQL : Master SQL Fundamentals, 
+2nd Edition by Alan Beaulieu, O Reilly/Shroff
+Course Format:  3 Classes/week, 1hr/Class, 1 
+Lab/Week, 2hr/Lab, 1 credit = 4 Credits 
+CSE 3035Cryptography and Network Security32Overview, Classical Encryption Techniques, Block Ciphers and the Data 
+Encryption Standard, Basic Concepts in Number Theory and Finite Fields, 
+Advanced Encryption Standard, Multiple Encryption and Triple DES, 
+Pseudorandom Number Generation and Stream Ciphers, Public-Key 
+Cryptography and RSA, Cryptographic Hash Functions, Message Authentication Codes, Key Management and Distribution, User Authentication, Transport-Level Security, Wireless Security, Electronic Mail 
+Security, IP Security. Labs from Stallings.
+Textbooks –  
+-Cryptography and Network security by stallings, pearsonCourse Format:  2 Classes/week, 1hr/Class, 1 
+2hr lab/week, 3 Credits
+CSE 4054Introduction to Machine Learning using Python
+41The Machine Learning Landscape, End-to-End Machine Learning Project, 
+Classification, Training Models, Support Vector Machines, Decision Trees, 
+Ensemble Learning and Random Forests, Dimensionality Reduction, 
+Neural Networks and Deep Learning, Up and Running with TensorFlow, 
+Introduction to Artificial Neural Networks, Training Deep Neural Nets, 
+Distributing TensorFlow Across Devices and Servers, Convolutional Neural 
+Networks, Recurrent Neural Networks, Autoencoders, Reinforcement 
+Learning 
+Textbooks : Hands-On Machine Learning with 
+Scikit-Learn and TensorFlow by Geron, Shroff/
+O’ReillyCourse Format:  2 Classes/week, 1hr/Class, 2 
+Labs/Week, 2hr/Lab, 4 Credits
+SEMESTER 6 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+CSE 4021Programming Languages and Compilers
+41Introduction, Programming Language Syntax, Names, Scopes and 
+Bindings, Semantic Analysis, Control flow, Data Types, Subroutines and 
+control abstraction, Data abstraction and object orientation, Building a 
+Runnable Program, Runtime Program Management, Code Improvement
+Textbook - Programming Language 
+Pragmatics by Scott, ElsevierCourse Format:  3 Classes/week, 1hr/Class, 1 
+2hr/Problem Solving Session/Week
+TOTAL CREDITS
+19SEMESTER 6 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CREDITSGRADING PATTERN
+SEMESTER 6 (SUBJECTS with BLACK Highlighting ARE REQUIRED FOR PROMOTION TO 4TH YEAR)CODESUBJECTThe textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 7CODESUBJECTCREDITSGRADING PATTERN
+CSE 4143Mobile Application Development Project
+43The Android Developer’s Guide made available by google will be 
+primarily used. The design guidelines for material design shall be strictly followed. The output of the said project is a sufficiently complex functional (working) 
+Android App (with both front and back end). The code and the concept 
+should be unique. Students must demonstrate the app to be working on an android phone.
+Textbooks  
+-Android Programming : The Big Nerd 
+Ranch Guide -Android Game Programming by example, 
+Packt Publishing -Android Developers Guide by Google, 
+Available Online
+Course Format: 8 contact hours
+GEN 1002Legal and Ethical Aspects of Engineering26Professional Ethics; Responsibility in Engineering; Framing the Problem; 
+Resolving Problems; The Social and Value Dimension of Technology; Trust 
+and Reliability; Risk and Liability in Engineering; Engineers in Organizations; Engineers and the Environment; International Engineering 
+Professionalism; Case Studies 
+Copyrights, Trademarks and Patents with emphasis on Patents
+Textbook 
+-Engineering Ethics, Concepts and Cases by Harris, Pritchard and Rabins 
+-Law Relating to Intellectual Property Rights 
+by VK Ahuja, Lexis NexisCourse Format: 2 1 hr theory classes per 
+week.Departmental Elective I4Depends on Selected SubjectDepartmental Elective II4Depends on Selected SubjectDepartmental Elective III4Depends on Selected SubjectDepartmental Elective IV4Depends on Selected SubjectTOTAL CREDITS
+22The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+SEMESTER 8CODESUBJECTCREDITSGRADING PATTERN
+Open Elective I4Depends on Selected SubjectOpen Elective II4Depends on Selected SubjectOpen Elective III4Depends on Selected SubjectCSE 4101Senior Design Project
+103The Design of Everyday Things: The Psychopathology of Everyday things; The Psychology of everday actions; Knowledge in the head and in the 
+world; Knowing what to do; To err is human; The Design Challenge; User 
+Centered Design;  
+This is the Fourth year Design Project, designed as per Engineering 
+Design/Software Engineering (as applicable) Principles
+Textbook -  
+-Code Complete, 2nd Edition, By Steve McDonnell, Microsoft Dreamtech press 
+-The Design of Everyday Things by Don Norman
+Course Format: 20 Contact hours per week
+TOTAL CREDITS
+22MINIMUM NUMBER OF CREDITS 
+(AFTER SATISFYING ALL MANDATORY REQUIREMENTS) : 160
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+ELECTIVESELECTIVES POLICY5 ELECTIVE AREAS12 ELECTIVES OFFERED IN 5 AREAS-SOFTWARE ENGINEERING 
+-MACHINE LEARNING -DATA SCIENCE 
+-AI AND ROBOTICS -SYSTEMS DESIGN STUDENT MUST CHOOSE 4 DEPARTMENTAL ELECTIVES
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+AREA 1: Software Engineering
+CODESUBJECTCREDITSGRADING PATTERN
+CSE 4046Software Testing
+41Software Test and Analysis in a Nutshell, A Framework for Test and 
+Analysis, Basic Principles, Test and Analysis Activities within a Software 
+Process, Finite Models, Dependence and Data Flow Models, Symbolic 
+Execution and Proof of Properties, Finite State Verification, Test Case 
+Selection and Adequacy, Functional Testing, Combinatorial Testing, 
+Structural Testing, Data Flow Testing, Model-Based Testing, Testing 
+Object-Oriented Software, Fault-Based Testing, Test Execution, 
+Inspection, Program Analysis, System, Acceptance, and Regression 
+Testing, Automating Analysis and Test, Documenting Analysis and Test
+Textbook - Software Testing and Analysis: 
+Process, Principles and Techniques by Mauro 
+Pezze, Wiley India
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+CSE 4045Refactoring41Refactoring, Principles in Refactoring, Bad Smells in Code, Building Tests, 
+Toward a Catalog of refactoring, Composing Methods, Moving features, 
+organising data, Simplifying conditional data, making method calls 
+simpler, dealing with generalization, big refactorings 
+Textbook - Refactoring : Improving the code 
+of existing design, FowlerCourse Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+AREA 2: Machine Learning
+CODESUBJECTCREDITSGRADING PATTERN
+CSE 4038Statistical Machine Learning
+41Overview of Supervised Learning, Linear Models for Regression, Linear 
+Models for classification, Basic Expansion and Regularisation, Kernel 
+Smoothing Methods, Model Assessment and Selection, Model Inference 
+and Averaging, Additive Modes, Trees and Related Methods, Neural 
+NetworksTextbooks 
+-The Elements of Statistical Learning by 
+Friedman,hastie and Tibshirani
+Course Format:  3 Classes/week, 1hr/Class, 1 
+2hr Problem Solving Session/Week, 4 Credits 
+CSE 4039Deep Learning with Tensor Flow
+41Neural Networks, Training feed forward neural networks, implementing 
+neural networks in tensor flow, beyond gradient descent, convolutional 
+neural networks, Embedding and Representation learning, Models for 
+sequence analysis, memory augmented neural networks, deep reinforcement learning 
+Textbook - Fundamentals Of Deep Learning: 
+Designing Next-Generation Machine Intelligence Algorithms, Shroff/O’Reilly
+Course Format:  3 Classes/week, 1hr/Class, 1 
+2hr Lab Session/Week, 4 Credits 
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+AREA 3: Data ScienceCODESUBJECTCREDITSGRADING PATTERN
+CSE 4052Data Mining41Introduction, Getting to know your data, Preprocessing, Data 
+Warehousing and On-line analytical processing, Data Cube Technology, 
+Mining Frequent Patterns, Associations and Correlations: Concepts and 
+Methods,Classification: Basic Concepts, Cluster Analysis: Basic Concepts and Methods Textbook - Data Mining: Concepts and 
+Techniques by Han and Kimber, Elsevier
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+CSE 4053Information Retrieval
+41Boolean Retrieval, The term vocabulary and posting lists, Dictionaries and 
+tolerant retrieval, Index construction, Index compression, Scoring, term 
+weighting, and the vector space model, Computing scores in a complete 
+search system, Evaluation in information Retrieval, Relevance Feedback 
+and Query Expansion, XML retrieval, Probabilistic Information Retrieval, 
+Language Models for information Retrieval, Text classification and naiive 
+bayes, Vector space classification, SVM and machine learning on 
+documents, Flat clustering, Hierarchical Clustering 
+Textbook - Introduction to Information 
+Retrieval by Manning, Cambridge University Press
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+AREA 4: Artiﬁcial Intelligence and RoboticsCODESUBJECTCREDITSGRADING PATTERN
+CSE 4033Introduction to Artificial Intelligence
+41Introduction, Intelligent Agents, Solving Problems by Search, Beyond 
+Classical Search, Adversarial Search, Logical Agents, Constraint 
+Satisfaction Problems, First Order Logic, Inference in First Order Logic, 
+Classical PlanningTexbook - Artificial Intelligence by Russell and 
+Norvig, Pearson IndiaCourse Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits
+CSE 4081Introduction to Robotics
+41Fundamentals, Kinematics of Robots: Position Analysis, Differential 
+Motions and Velocities, Dynamic Analysis and Forces, Trajectory Planning, 
+Motion Control Systems, Actuators and Drive Systems, Sensors
+Textbook - Introduction to Robotics: Analysis, 
+Control, Applications, 2nd Edition by Niku, 
+Wiley India
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+CSE 4082Computer Vision
+41Introduction, Geometric Camera Models, Light and Shading, Colo, Linear 
+Filters, Linear Image filters, Texture, Stereopsis, Structure from motion, 
+Segmentation by clustering, Grouping and model fitting, Tracking, 
+RegistrationTextbooks 
+-Computer Vision by Forsyth and Ponce, 
+Pearson IndiaCourse Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
+ADMISSION BATCH 2019
+Curriculum HandbookB.TECH IN CSE
+AREA 5: Systems DesignCODESUBJECTCREDITSGRADING PATTERN
+CSE 4083Embedded Systems41Custom Single-Purpose Processors: Hardware, General-Purpose 
+Processors: Software, Standard Single-Purpose Processors: Peripherals, 
+Memory, Interfacing, Digital Camera Example, State Machine and 
+Concurrent Process Models, Control Systems, IC Technology, Design 
+Technology
+Textbook - Embedded System Design: A 
+Unified Hardware / Software Introduction by 
+Vahid, Wiley India
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+CSE 4084Distributed Systems41Characterization of DS, System Models, Networking and Internetworking, 
+Interprocess Communication, Remote Invocation, Indirect 
+Communication, Operating System Support, Dist. Objects and Components, Web Services, Peer-to-Peer Systems, Security, Distributed 
+File Systems, Name Services, Time and Global States, Coordination and 
+Agreement  
+ Textbooks 
+-Distributed Systems: Concepts and Design, 5th Edition by George Coulouris, Pearson 
+IndiaCourse Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+CSE 4085Cloud Computing41Introduction, Fundamentals of cloud computing, cloud computing 
+mechanisms, cloud computing architecture, working with clouds 
+Textbooks 
+-Cloud Computing: Concepts, Technology 
+& Architecture, 1e by Erl, Pearson India
+Course Format: 3 Classes/Week, 1 hr/Class; 1 
+labs/Week, 2 hrs/Lab = 4 Credits 
+The textbooks prescribed for each subject are required and will be the only ones used for that subject
