@@ -1,0 +1,36 @@
+From Language English	they say that -Happy New Year!
+From Language Afrikaans	they say that -Voorspoedige nuwe jaar
+From Language Arabic	they say that -Kul 'am wa antum bikhair
+From Language Basque	they say that -Urte Berri on
+From Language Bengali	they say that -Shuvo noboborsho
+From Language Chinese (Cantonese)	they say that -Sun nien fai lok
+From Language Chinese (Mandarin)	they say that -Xin nian yu kuai
+From Language Czech	they say that -Stastny Novy Rok
+From Language Danish	they say that -Godt Nytír
+From Language Dutch	they say that -Gelukkig nieuwjaar
+From Language Esperanto	they say that -Bonan Novjaron
+From Language Finnish	they say that -Onnellista uutta vuotta
+From Language French	they say that -Bonne année
+From Language German	they say that -Ein gluckliches neues Jahr
+From Language Greek	they say that -Eutychismenos o kainourgios chronos
+From Language Hawaiian	they say that -Hauoli Makahiki hou
+From Language Hebrew	they say that -Shana Tova
+From Language Hungarian	they say that -Boldog uj evet
+From Language Indonesian (Bahasa)	they say that -Selamat Tahun Baru
+From Language Italian	they say that -Felice Anno Nuovo or Buon anno
+From Language Japanese	they say that -Akemashite Omedetou Gozaimasu
+From Language Korean	they say that -Sehe Bokmanee Bateuseyo
+From Language Laotian (Hmong)	they say that -Nyob Zoo Xyoo Tshiab
+From Language Latin	they say that -Felix sit annus novus
+From Language Nigerian (Hausa)	they say that -Barka da sabuwar shekara
+From Language Norwegian	they say that -Godt Nytt ír
+From Language Philippines (Tagalog)	they say that -Manigong Bagong Taon
+From Language Polish	they say that -Szczesliwego Nowego Roku
+From Language Romanian	they say that -La Multi Ani si Un An Nou Fericit
+From Language Samoan	they say that -Ia manuia le Tausaga Fou
+From Language Spanish	they say that -Feliz año nuevo
+From Language Swahili	they say that -Heri za Mwaka Mpya
+From Language Swedish	they say that -Gott Nytt ír
+From Language Thai	they say that -Sawatdee Pi Mai
+From Language Vietnamese	they say that -Chuc mung nam moi
+From Language Welsh	they say that -Blwyddyn Newydd Dda
